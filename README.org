@@ -1,0 +1,7 @@
+* shxpwm (sh xpywm)
+https://github.com/h-ohsaki/xpywm をベースとしている。
+
+* Key Bindings
+- Ctrl + Alt + l
+  Window raise を行なわないようにする。
+
